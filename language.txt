@@ -1,0 +1,4 @@
+czech
+czech|Musíš se napít|Napij se!!
+english|You must drink|Go and drink!!
+german|Du musst trinken|Geh und trink!!
