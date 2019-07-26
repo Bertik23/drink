@@ -14,4 +14,4 @@ Very useful on hot days.
 <ol><li>Press <i>Win + R</i> and type <i>shell:startup</i> right click and choose <i>New</i> and <i>Shortcut</i></li>
 <li>Copy the path to <i>Drink!.exe</i>, paste it into the Shortcut making and add <i>\Drink!.exe</i>, press <b>Next<b>, choose the name of the Shortcut and press <b>Finish<b></li></ol>
 
-The default language is czech. To change the language look on the wiki.
+The default language is czech. To change the language look on the <a href="https://github.com/Bertik23/drink/wiki/How-to-change-the-language">wiki.</a>
