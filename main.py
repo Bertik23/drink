@@ -16,14 +16,14 @@ def updateValues():
     mboxtitle = languages.get(language,"title")
     mboxtext = languages.get(language,"text")
     sound = BoomBox(f"sounds/{language}.wav")
-    timer = config.get("main","remindingInterval")
+    timer = int(config.get("main","remindingInterval"))
 
 def run():
     updateValues()
-	sound.play()
-	alert(title = mboxtitle, text = mboxtext, button = "OK")
-	sound.play
+    sound.play()
+    alert(title = mboxtitle, text = mboxtext, button = "OK")
+    sound.play
 
-while True == False:
-	run()
-	time.sleep(timer)
+while True:
+    run()
+    time.sleep(timer)
