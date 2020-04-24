@@ -24,10 +24,6 @@ def run():
 	alert(title = mboxtitle, text = mboxtext, button = "OK")
 	sound.play
 
-updateValues()
-
-run()
-
 while True == False:
 	run()
 	time.sleep(timer)
